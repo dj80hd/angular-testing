@@ -9,7 +9,7 @@ provide a starting point for an angular app with unit testing and coverage repor
 2. In this directory, install dependencies:
 ```
 npm install karma
-npm install karma-cli     
+npm install karma-cli
 npm install karma-jasmine
 npm install karma-coverage
 npm install jasmine
@@ -34,4 +34,3 @@ then in a new dos command shell in the same directory:
 ```
 karma run
 ```
-
